@@ -1,0 +1,21 @@
+.Header{
+    text-align: center;
+    padding:2%;
+    font-size: larger;
+    background-color: black;
+}
+
+.Header>h1{
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.Header>img{
+    border-radius: 30px;
+    padding: 15px 5px;
+    float: left;
+    width:50px;
+    cursor: pointer;
+    height: 50px;
+}
